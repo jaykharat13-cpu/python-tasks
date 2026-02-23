@@ -1,17 +1,17 @@
-# Python Tasks Repository
+## Python Tasks Repository
 
-This repository contains two Python programs.
+## Overview
+This repository contains two Python programs developed as part of assigned tasks. The scripts demonstrate basic programming logic, problem-solving, and structured coding practices in Python.
+
+---
 
 ## Task 1
 Description:
-This program performs the functionality required for Task 1.
+Explain clearly what the program does here.
 
-How to run:
+Technologies Used:
+- Python 3
+
+How to Run:
+```bash
 python task1.py
-
-## Task 2
-Description:
-This program performs the functionality required for Task 2.
-
-How to run:
-python task2.py
