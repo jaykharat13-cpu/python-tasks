@@ -1,2 +1,13 @@
 #Task 1: Perform Basic Mathematical Operations
 A= input("Enter the first number : ")
+B= input("Enter the second number : ")
+sum=float(A)+float(B)
+sub=float(A)-float(B)
+mul=float(A)*float(B)
+div=float(A)/float(B)
+print("The firster number is : ",A)
+print("The second number is : ",B)
+print("Sum of the numbers is : ",sum)
+print("Difference of the numbers is : ",sub)
+print("Product of the numbers is : ",mul)
+print("Division of the numbers is : ",div)
